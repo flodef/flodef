@@ -1,12 +1,3 @@
-# Flojito Stillnet
-
-Développeur full-stack — applications web, gestion financière & blockchain.
-Basé en Bretagne, France.
-
-- CV : https://cv.fims.fi
-- Site pro : https://cmd.bzh
-- FiMs : https://fims.fi
-
 ## GitHub Stats
 
 | | |
